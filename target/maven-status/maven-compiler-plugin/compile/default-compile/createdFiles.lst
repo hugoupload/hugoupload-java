@@ -1,0 +1,5 @@
+com\hugocut\model\Response.class
+com\hugocut\model\UploadResponse.class
+com\hugocut\model\CompleteResponse.class
+com\hugocut\model\InitResponse.class
+com\hugocut\model\DataForm.class
